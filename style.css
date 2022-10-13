@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #23252C;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 53px;
+    width: 100%;
+}
+
+.card{
+    width: 317px;
+    border-radius: 10px;
+    border: 1px solid #ababab;
+}
