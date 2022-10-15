@@ -92,3 +92,25 @@ h3{
     background-color: #5093E2;
     color: white;
 }
+
+.about{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+}
+
+.passage h2{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 11px;
+}
+
+.passage p{
+    font-weight: 400;
+    font-size: 11px;
+    color: #DCDCDC;
+}
+
+.passage:not(:last-child){
+    margin-bottom: 20px;
+}
